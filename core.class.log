@@ -1,0 +1,57 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212229284704@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06B32AC566476AB68',
+    participant: undefined
+  },
+  messageTimestamp: 1676143318,
+  pushName: 'Oscar Estrada',
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5212229284704'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212229284704@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D144D7850484B5A8',
+    participant: undefined
+  },
+  messageTimestamp: 1676143324,
+  pushName: 'Oscar Estrada',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5212229284704'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212229284704@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F0DF3E2DB1DBC723',
+    participant: undefined
+  },
+  messageTimestamp: 1676143330,
+  pushName: 'Oscar Estrada',
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '5212229284704'
+}
